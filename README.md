@@ -2,6 +2,7 @@
 <body>
   <p>Hi, i'm Golden, I like to make stuff like a nerd</p>
   <img src="https://github-readme-stats.vercel.app/api?username=LightofGolden&show_icons=true&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LightofGolden&theme=tokyonight" />
 </body>
 
 
