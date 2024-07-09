@@ -2,7 +2,7 @@
   <p align="center">
   Hi, i'm Golden, I like to make stuff like a nerd.
   <br>
-  I am currently developing my programming skills, so far I have learned Lua, by self-learning, and Python by taking part of the online Python class by the International Computer/Programmer Education Center, Softech Aptech, an education program following global Aptech standards.
+  I am currently developing my programming skills, so far I have learned Lua, by self-learning, and Python by taking part of the online Python class by the International Computer/Programmer Education Center, Softech Aptech.
   <br>
   <br>
   As a Vietnamese middle school student (to-be grade 8), interested in programming and Computer Science for hobbies and fun, I will show my programming journey on this repository until forever. Where will it go? I don't even know, but like always, time will tell.
