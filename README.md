@@ -10,8 +10,9 @@
   <br>
   Currently i'm working on: <a href="https://github.com/LightofGolden/Project-Another-IDE"> Project: Another IDE, an integrated developer environment made entirely in Roblox. </a>
   <br>
+  Another thing i'm currently i'm working on: unknown.
+    <br>
   <br>
-    
   <img src="https://github-readme-stats.vercel.app/api?username=LightofGolden&show_icons=true&theme=onedark"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LightofGolden&theme=tokyonight" />
   <br>
