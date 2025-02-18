@@ -5,7 +5,7 @@
   I am currently developing my programming skills, so far I have learned Lua, by self-learning, and Python by taking part of the online Python class by the International Computer/Programmer Education Center, Softech Aptech.
   <br>
   <br>
-  As a Vietnamese middle school student (to-be grade 8), interested in programming and Computer Science for hobbies and fun, I will show my programming journey on this repository until forever. Where will it go? I don't even know, but like always, time will tell.
+  As a Vietnamese middle school student (to-be grade 9), interested in programming and Computer Science for hobbies and fun, I will show my programming journey on this repository until forever. Where will it go? I don't even know, but like always, time will tell.
   <br>
   <br>
   Currently i'm working on: <a href="https://github.com/LightofGolden/Project-Another-IDE"> Project: Another IDE, an integrated developer environment made entirely in Roblox. </a>
