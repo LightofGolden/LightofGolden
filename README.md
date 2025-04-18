@@ -1,20 +1,19 @@
-<h1 align = center> GoldenGamery (LightofGolden/purem1zu) </h1>
+<h1 align = center> Marpl (LightofGolden/purem1zu) </h1>
   <p align="center">
-  Hi, i'm Golden, I like to make stuff like a nerd.
+  Hi, i'm Marpl, just a noob developer.
   <br>
-  I am currently developing my programming skills, so far I have learned Lua, by self-learning, and Python by taking part of the online Python class by the International Computer/Programmer Education Center, Softech Aptech.
-  <br>
-  <br>
-  As a Vietnamese middle school student (to-be grade 9), interested in programming and Computer Science for hobbies and fun, I will show my programming journey on this repository until forever. Where will it go? I don't even know, but like always, time will tell.
+  I am currently improving my programming skills, so far I have learned Lua, by self-learning, and Python by taking part of the online Python class by the International Computer/Programmer Education Center, Softech Aptech.
   <br>
   <br>
-  Currently i'm working on: <a href="https://github.com/LightofGolden/Project-Another-IDE"> Project: Another IDE, an integrated developer environment made entirely in Roblox. </a>
+  As a Vietnamese middle school student (to-be grade 9), interested in programming and Computer Science for hobbies and fun, I will show my programming journey on this repository until forever. See my progress on this repository.
   <br>
-  Another thing i'm currently i'm working on: unknown.
-    <br>
+  Currently i'm working on: <a href="https://github.com/LightofGolden/Stargaze"> Stargaze, an IDE made and optimized for phones and tablets. </a>
+  <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=LightofGolden&show_icons=true&theme=onedark"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LightofGolden&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LightofGolden&theme=onedark" />
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LightofGolden&theme=tokyonight" alt="mystreak"/>
   <br>
   <br>
   <a href="https://lightofgolden.github.io"> My Website </a> 
